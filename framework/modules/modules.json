@@ -1,0 +1,9 @@
+{
+    "modules": [
+        {
+            "Samsung Core Prime": [
+                "document_viewer_fuzzer"
+            ]
+        }
+    ]
+}
